@@ -1,1 +1,0 @@
-This repo contains different mobile applications made using react-native. Explore different branches to checkout different application.  
